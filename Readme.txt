@@ -6,7 +6,7 @@ git init
 
 git branch -m main
 
-nano Readme.txt
+nano Readme.txt (optionnel ?)
 
 git add.
 
